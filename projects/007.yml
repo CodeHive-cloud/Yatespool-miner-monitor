@@ -1,8 +1,8 @@
-name: "Yatespool Miner Monitor"
-category: "Tools"
+name: 'Yatespool Miner Monitor'
+category: 'Tools'
 description: >
   Mining online and profit monitor for Yatespool InitVerse miners.
   Works perfectly with Inibox.
-onlineTime: "2026-03"
-logo: "/img/yatespool-miner-monitor.png"
-website: "https://apps.apple.com/nl/app/yatespool-miner-monitor/id6760419784"
+onlineTime: '2026-03'
+logo: '/img/yatespool-miner-monitor.png'
+website: 'https://apps.apple.com/nl/app/yatespool-miner-monitor/id6760419784'
